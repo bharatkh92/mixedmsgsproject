@@ -1,2 +1,2 @@
 #  Mixed Messages Project
-The project will return random lyrics from the song [**In My Mind**](https://www.youtube.com/watch?v=W9P_qUnMaFg) by **Dynoro** and **Gigi D’Agostino**, and the ASCII art.
+The project will return random lyrics from the song [**In My Mind**](https://www.youtube.com/watch?v=W9P_qUnMaFg) by **Dynoro** and **Gigi D’Agostino**, ASCII art and lyrics from the song [**Bad Guy**](https://www.youtube.com/watch?v=DyDfgMOUjCI) by **Billie Eilish**.
