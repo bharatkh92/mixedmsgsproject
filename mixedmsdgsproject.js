@@ -694,7 +694,7 @@ const printMixedMsg = () => {
   for(const obj in asciiarr){count++}
   let second = Math.floor(Math.random() * count + 1);
   let third = Math.floor(Math.random() * lyrics4.length);
-  console.log(`${lyrics2[first]} ${asciiarr[second]} ${lyrics4[third]}`)
+  console.log(`${lyrics2[first]} \n ${asciiarr[second]} \n ${lyrics4[third]}`)
 }
 
 printMixedMsg()
